@@ -6,3 +6,6 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 ## Results:
 The webpage initially loads the entire data table, with 5 search boxes on the left hand side, as shown in the image below.
 ![GitHub Graph](https://github.com/tpatel0107/UFO-Sightings/blob/main/First%20Web%20Page%20Image.PNG?raw=true)
+
+To search the user enters a search criterion and presses enter. Once done, the table adjusts for the search results. A user can enter one search item as seen below:
+![GitHub Graph](https://github.com/tpatel0107/UFO-Sightings/blob/main/Second%20Web%20Page%20Image.PNG?raw=true)
