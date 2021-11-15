@@ -12,3 +12,8 @@ To search the user enters a search criterion and presses enter. Once done, the t
 
 Or multple search items:
 ![GitHub Graph](https://github.com/tpatel0107/UFO-Sightings/blob/main/Third%20Web%20Page%20Image.PNG?raw=true)
+
+## Summary:
+While the website currently performs its purpose, there are a few ways to improve it. A current challenge of the webpage is that once a search is performed and filtered, in order to return to the original table, you need to refresh the page.
+
+I would add drop-down menus to the search criteria to help users when they don't know the exact name, place they want to search. In addition, I'd add a reset button that refreshes the page and clears the search criteria. Finally, I would add a map, that shows the location of all the UFO sightings, and allow the user to hover over the map points to see the associated data
